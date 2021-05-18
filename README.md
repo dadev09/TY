@@ -1,4 +1,4 @@
-# Olla [Interview] Feature Flags Service
+# [Interview] Feature Flags Service
 
 ## Environment Set Up:
 
